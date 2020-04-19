@@ -1,6 +1,6 @@
-# YOUDOW
+# YOUDOW 1.0
 
-### Ferramenta para baixa música e vídeo diretamente do terminal
+### Ferramenta para baixa música e vídeo diretamente do terminal Termux
 
 ##### Como Inicia A Ferramenta 
 
@@ -9,4 +9,6 @@
 
 ##### Inicia A Ferramenta
 
-* python YouDow.py ou python3 YouDow.py
+* python YouDow.py
+* ou
+* python3 YouDow.py
