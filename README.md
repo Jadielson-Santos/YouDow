@@ -2,7 +2,7 @@
 
 ### Ferramenta para baixa música e vídeo diretamente do terminal Termux
 
-##### Como Inicia A Ferramenta 
+##### Como Instala A Ferramenta 
 
 * chmod 777 YouDow
 * ./YouDow
